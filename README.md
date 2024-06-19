@@ -7,9 +7,12 @@ First, ensure you have NLTK installed, and then download the VADER lexicon. You 
 # Install NLTK
 !pip install nltk
 
+
 # Python code to download the VADER lexicon
 import nltk
 nltk.download('vader_lexicon')
+
+![image](https://github.com/tohingit/Sentiment-Text-Analysis/assets/171322240/6c0cf461-1916-417d-b540-bd55c339dd7a)
 
 
 Next step is to run the script STAnalysis.py with promth command:
